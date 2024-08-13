@@ -1,0 +1,19 @@
+{
+  "name": "Artdoc Magazine",
+  "short_name": "Artdoc Magazine",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/5d813fb808863e07db7f6573/66bb695c2fc4f72d06c61c77_Artdoc%20Magazine%20App%20Icon%20192%20pixels.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5d813fb808863e07db7f6573/66b4b5c8008b1cf5463bcef7_Artdoc%20Magazine%20App%20Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
